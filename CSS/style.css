@@ -45,12 +45,17 @@ a:hover {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  font-size: 20;
 }
 
-.top {
+.goto-top {
   color: black;
   position: fixed;
   font-family: "Courier New", Courier, monospace;
   bottom: 15px;
   right: 15px;
+}
+
+.box {
+  font-size: 20;
 }
