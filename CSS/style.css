@@ -31,15 +31,26 @@ a {
   color: black;
   background-color: coral;
   border: 2px black solid;
-  border-radius: 4px;
+  border-radius: 8px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
 }
 
 a:hover {
-  background-color: white;
+  background-color: black;
+  color: white;
 }
 
 .flex-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+}
+
+.top {
+  color: black;
+  position: fixed;
+  font-family: "Courier New", Courier, monospace;
+  bottom: 15px;
+  right: 15px;
 }
