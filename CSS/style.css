@@ -23,7 +23,7 @@
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Revalia, Arial, Helvetica, sans-serif;
   color: darkgrey;
   line-height: 1.2;
   padding: 20px;
@@ -51,7 +51,7 @@ a {
   background-color: coral;
   border: 2px black solid;
   border-radius: 8px;
-  font-family: "Courier New", Courier, monospace;
+  font-family: Revalia, sans-serif;
   font-weight: bold;
   transition: all 0.3s ease 0s;
 }
