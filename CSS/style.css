@@ -47,6 +47,7 @@ a:hover {
   flex-wrap: wrap;
   justify-content: space-evenly;
   font-size: 20;
+  position: sticky;
 }
 
 .goto-top {
