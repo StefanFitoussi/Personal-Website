@@ -59,7 +59,7 @@ a {
   font-family: Revalia, sans-serif;
   font-weight: bold;
   transition: all 0.3s ease 0s;
-  b
+  text-decoration: none;
 }
 
 a:hover {
@@ -73,11 +73,11 @@ a:link {
 
 a:active {
   background-color: black;
-  color: white;
+  color: grey;
 }
 
 a:visited {
-  color: white;
+  color: lightgrey;
 }
 
 .flex-container {
