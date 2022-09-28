@@ -28,24 +28,3 @@
     /* Safari, Android, iOS */
       url("../css/webfonts/revalia-v20-latin-regular.svg#Revalia") format("svg"); /* Legacy iOS */
 }
-
-.box {
-  font-size: 20;
-}
-
-.sealpic {
-  display: flex;
-  justify-content: center;
-  margin: auto;
-}
-
-.subtitle {
-  display: flex;
-  justify-content: center;
-  font-size: 11.4;
-  margin-top: 12px;
-}
-
-.t1 {
-  font-family: "Revalia", sans-serif;
-}
