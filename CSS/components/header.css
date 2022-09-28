@@ -1,0 +1,7 @@
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  font-size: 20;
+  position: sticky;
+}

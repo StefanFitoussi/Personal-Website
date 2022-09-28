@@ -1,0 +1,36 @@
+a {
+  color: black;
+  background-color: coral;
+  border: 2px black solid;
+  border-radius: 8px;
+  font-family: Revalia, sans-serif;
+  font-weight: bold;
+  transition: all 0.3s ease 0s;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: black;
+  color: white;
+}
+
+a:link {
+  background-color: coral;
+}
+
+a:active {
+  background-color: black;
+  color: grey;
+}
+
+a:visited {
+  color: lightgrey;
+}
+
+.goto-top {
+  color: black;
+  position: fixed;
+  font-family: revalia, sans-serif;
+  bottom: 15px;
+  right: 15px;
+}
