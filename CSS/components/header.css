@@ -1,7 +1,10 @@
-.flex-container {
+header {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
   font-size: 20;
+  border-radius: px;
   position: sticky;
+  top: 0;
+  border-radius: 8px;
 }

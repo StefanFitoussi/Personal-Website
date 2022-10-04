@@ -1,3 +1,26 @@
+grid-template-areas:
+  "a a a"
+  "b c c"
+  "b c c";
+
+.about-me {
+  grid-area: a;
+  border: 4px solid orange;
+  border-radius: 8px;
+}
+
+.hobbies {
+  grid-area: b;
+  border: 4px solid orange;
+  border-radius: 8px;
+}
+
+.foto {
+  grid-area: c;
+  border: 4px solid orange;
+  border-radius: 8px;
+}
+
 ul {
   list-style: none;
 }
